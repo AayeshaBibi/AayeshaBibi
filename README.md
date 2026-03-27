@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayesha
 
-🎓 5th Semester AI Student | 💻 Python Developer | 🤖 Aspiring Machine Learning Engineer  
+🎓 6th Semester AI Student | 💻 Python Developer | 🤖 Aspiring Machine Learning Engineer  
 📍 Based in Pakistan | 🌐 Passionate about building intelligent systems to solve real-world problems
 
 ---
